@@ -1,5 +1,6 @@
 {
     "name": "wus1/yii2-sortable-widget",
+	"version": "dev-master",
     "description": "Sortable js",
     "keywords": ["yii2", "sortable", "gridview", "grid", "widget"],
     "type": "yii2-extension",
