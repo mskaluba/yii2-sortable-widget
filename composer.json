@@ -1,0 +1,24 @@
+{
+    "name": "wus1/yii2-sortable-widget",
+    "description": "Sortable js",
+    "keywords": ["yii2", "sortable", "gridview", "grid", "widget"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "support": {
+        "source": "https://github.com/mskaluba/yii2-sortable-widgets",
+        "issues": "https://github.com/mskaluba/yii2-sortable-widgets/issues"
+    },
+    "authors": [
+        {
+            "name": "wus1",
+            "homepage": "https://github.com/wus1"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-jui": "*"
+    },
+    "autoload": {
+        "psr-4": {"wus1\\yii2sortable\\": ""}
+    }
+}
