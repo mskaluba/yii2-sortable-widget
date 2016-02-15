@@ -4,7 +4,7 @@
     "source": {
     	"url": "https://github.com/mskaluba/yii2-sortable-widgets",
         "type": "git",
-        "reference": "master"
+        "reference": "master",
 		"require": {
 			"yiisoft/yii2": "*",
 			"yiisoft/yii2-jui": "*"
