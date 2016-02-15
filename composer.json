@@ -1,21 +1,17 @@
-"repositories": [
-    {
-        "type": "package",
-        "package": {
-            "name": "wus1/yii2-sortable-widget",
-            "version": "dev-master",
-            "source": {
-                "url": "https://github.com/mskaluba/yii2-sortable-widgets",
-                "type": "git",
-                "reference": "master"
-            },
-			"require": {
-				"yiisoft/yii2": "*",
-				"yiisoft/yii2-jui": "*"
-			},
-            "autoload": {
-                "psr-4": {"wus1\\yii2sortable\\": ""}
-            }
+{
+	"name": "wus1/yii2-sortable-widget",
+    "version": "dev-master",
+    "source": {
+    	"url": "https://github.com/mskaluba/yii2-sortable-widgets",
+        	"type": "git",
+            "reference": "master"
+		},
+		"require": {
+			"yiisoft/yii2": "*",
+			"yiisoft/yii2-jui": "*"
+		},
+        "autoload": {
+     	   "psr-4": {"wus1\\yii2sortable\\": ""}
         }
-    }
-],
+	}
+}
